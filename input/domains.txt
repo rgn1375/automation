@@ -1,0 +1,5 @@
+hackerone.com
+bugcrowd.com
+intigriti.com
+yeswehack.com
+synack.com
